@@ -5,6 +5,7 @@
   font-size: 3em;
   text-align: center;
   cursor: pointer;
+  background: #f7f7f7;
 }
 
 .ticTable td:hover {
